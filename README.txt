@@ -3,6 +3,7 @@ ALX pre course on DevOps: Deploying static website
 In this project, I have configured, an S3 bucket to host static files. To be able to make the files accessible to the public, I have configured the s3 to accept traffic from the public. 
 
 Cloudfront is a service that allows caching of files and quick access of same. We would sent up the cloudfront and point it to the s3 bucket.
+The screenshots are attached
 
 
 CloudFront domain name
